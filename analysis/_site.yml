@@ -1,7 +1,7 @@
-name: "Introdcution_R"
+name: Introdcution_R
 output_dir: ../docs
 navbar:
-  title: "Introdcution_R"
+  title: Introdcution_R
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fab fa-github
+    text: Source code
+    href: https://github.com/MoussaSang/myproject
 output:
   workflowr::wflow_html:
     toc: yes
