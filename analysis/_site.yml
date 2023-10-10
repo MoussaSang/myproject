@@ -1,7 +1,7 @@
-name: Introdcution_R
+name: MyProject
 output_dir: ../docs
 navbar:
-  title: Introdcution_R
+  title: MyProject
   left:
   - text: Home
     href: index.html
